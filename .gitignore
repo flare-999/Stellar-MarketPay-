@@ -7,8 +7,6 @@ build/
 *.log
 
 # Env files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -18,7 +16,6 @@ build/
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 
@@ -59,3 +56,4 @@ frontend/tsconfig.tsbuildinfo
 # Stryker output
 .stryker-tmp/
 reports/
+config.bat
