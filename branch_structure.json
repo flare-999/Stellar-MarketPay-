@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1766-mount-the-messaging-routes-in-server-js",
+    "fix/issue-1769-mount-notifications-and-onboarding-routes-in",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1766-mount-the-messaging-routes-in-server-js": "main",
+    "fix/issue-1769-mount-notifications-and-onboarding-routes-in": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1766-mount-the-messaging-routes-in-server-js",
+    "fix/issue-1769-mount-notifications-and-onboarding-routes-in",
+    "origin"
+  ]
+}
